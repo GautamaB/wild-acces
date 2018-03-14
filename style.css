@@ -1,21 +1,35 @@
-/*style css*/
 p{
     text-align: center;
-    }
-    #L1{
-        color: #139913;
-    }
-    #L3{
-        color: rgb(192, 6, 183);
-    }
-    #L5{
-        color: rgb(255, 22, 22);
-    }
-    *{
-        font-family: 'Libre Baskerville', serif;
-    }
+}
+#L1{
+    color: #139913;
+}
+#L3{
+    color: rgb(192, 6, 183);
+}
+#L5{
+    color: rgb(255, 22, 22);
+}
+*{
+    font-family: 'Libre Baskerville', serif;
+}
+footer{
+    background-color: rgb(36, 36, 36);
+    color: rgb(144, 183, 255);
+}
+hr{
+    background-color: rgb(255, 0, 0);
+    height: 2px;
+}
+body{
+    background-color: rgb(201, 201, 201);
+}
 
-
+.map
+{
+    width: 650px;
+    height: 450px;
+}
 .arretbus
 {
     width: 350px;
